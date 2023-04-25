@@ -4,7 +4,7 @@
             <style>
                 div {
                     color: white;
-                    font-family:verdana
+                    font-family:verdana;
                 }
                 
                 .fix {
