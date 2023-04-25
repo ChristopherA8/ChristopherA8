@@ -29,10 +29,6 @@
                     display: flex;
                     flex-direction: row;
                 }
-                
-                .links-container {
-                    object-position: left bottom;
-                }
             </style>
             <div style="display:flex; flex-direction: column;">
                 <div class="">
