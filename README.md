@@ -9,9 +9,4 @@
 
 
 
-[Support Discord Server](https://discord.gg/EKZyXfM)  |
-[christopher.jp.net](https://christopher.jp.net)  |
-[chr1s.dev](https://chr1s.dev)  | 
-[Tweak Repository](https://repo.chr1s.dev)
 
-[Anime Bible Discord Bot](https://top.gg/bot/763464598959292458)
