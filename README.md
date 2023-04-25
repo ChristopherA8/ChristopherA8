@@ -2,9 +2,9 @@
 <picture>
   <img align="right" src="http://198.251.72.167:3000/now-playing/q?uid=dbk14o835nlda15nnema5xl5z" alt="Spotify now playing" style="float: right;" />
  </picture>
+<img align="left" src="contents.svg" width="400" height="400" alt="css-in-readme">
 <h3 align="left">Christopher Anderson's GitHub 💻</h3>
 <h4 align="left">iOS Tweaks | CS Student</h4>
-
 
 
 <div class="container">
