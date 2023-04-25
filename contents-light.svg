@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 480 350" width="480" height="350" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 500 350" width="500" height="350" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -15,16 +15,41 @@
                     font-size: 14px;
                 }
                 
+                .box1 {
+                    padding: 8px;
+                    margin: 5px;
+                    background-color: #FFFFFF;
+                    border-radius: 20px;
+                    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+                }                
+                
+                .box2 {
+                    padding: 8px;
+                    margin: 5px;
+                    background-color: #FFFFFF;
+                    border-radius: 20px;
+                    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+                }
+                
+                .box3 {
+                    padding: 8px;
+                    margin: 5px;
+                    background-color: #FFFFFF;
+                    border-radius: 20px;
+                    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+                }
+                
                 .container {
                     display: flex;
                     flex-direction: row;
                 }
             </style>
-            <h2 align="left">Christopher Anderson's GitHub 💻</h2>
-            <h5 align="left">Hoping to study Computer Science at FER (University of Zagreb, Croatia)<br></br>Currently writing Jailbreak tweaks and iOS apps</h5>
-            <br></br>
+            <div class="box1">
+                <h2 align="left">Christopher Anderson's GitHub 💻</h2>
+                <h5 align="left">Hoping to study Computer Science at FER (University of Zagreb, Croatia)<br></br>Currently writing Jailbreak tweaks and iOS apps</h5>
+            </div>
             <div class="container">
-                <div>
+                <div class="box2">
                     <h4><pre class="fix">🤔 Languages I think I know  </pre></h4>
                     <ul>
                         <li>JS/NodeJS/TS</li>
@@ -35,7 +60,7 @@
                         <li>Java</li>
                     </ul>
                 </div>
-                <div>
+                <div class="box3">
                     <h4><pre class="fix">💻 Frameworks/Misc</pre></h4>
                     <ul>
                         <li>SwiftUI</li>
