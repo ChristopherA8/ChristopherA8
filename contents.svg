@@ -1,10 +1,44 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                .container {
+                    display: flex;
+                    flex-direction: row;
+                }
             </style>
             <h3 align="left">Christopher Anderson's GitHub 💻</h3>
             <h4 align="left">iOS Tweaks | CS Student</h4>
+
+            <div class="container">
+                <div>
+                    <h4>🔨 What I'm learning</h4>
+                    <ul>
+                        <li>studying for the SAT 💀</li>
+                        <li>UI/UX Design</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>🔢 Languages I think I know</h4>
+                    <ul>
+                        <li>JS/NodeJS/TS</li>
+                        <li>C/Objective-C</li>
+                        <li>Python</li>
+                        <li>Swift</li>
+                        <li>HTML/CSS</li>
+                        <li>Java</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>💻 Frameworks/Misc</h4>
+                    <ul>
+                        <li>SwiftUI</li>
+                        <li>ReactJS</li>
+                        <li>Electron</li>
+                        <li>DiscordJS</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </foreignObject>
 </svg>
