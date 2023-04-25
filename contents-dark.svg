@@ -1,25 +1,37 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 650 350" width="650" height="350" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                div {
+                    color: black;
+                }
+                
+                .fix {
+                    font-size: 16px;
+                }
+                
+                ul {
+                    font-size: 14px;
+                }
+                
                 .container {
                     display: flex;
                     flex-direction: row;
                 }
             </style>
-            <h3 align="left">Christopher Anderson's GitHub 💻</h3>
-            <h4 align="left">iOS Tweaks | CS Student</h4>
-
+            <h1 align="left">Christopher Anderson's GitHub 💻</h1>
+            <h5 align="left">Hoping to study Computer Science at FER (University of Zagreb, Croatia)<br></br>Currently writing Jailbreak tweaks and iOS apps</h5>
+            <br></br>
             <div class="container">
                 <div>
-                    <h4>🔨 What I'm learning</h4>
+                    <h4><pre class="fix">🔨 What I'm learning </pre></h4>
                     <ul>
                         <li>studying for the SAT 💀</li>
                         <li>UI/UX Design</li>
                     </ul>
                 </div>
                 <div>
-                    <h4>🔢 Languages I think I know</h4>
+                    <h4><pre class="fix">🔢 Languages I think I know  </pre></h4>
                     <ul>
                         <li>JS/NodeJS/TS</li>
                         <li>C/Objective-C</li>
@@ -30,7 +42,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h4>💻 Frameworks/Misc</h4>
+                    <h4><pre class="fix">💻 Frameworks/Misc</pre></h4>
                     <ul>
                         <li>SwiftUI</li>
                         <li>ReactJS</li>
