@@ -4,6 +4,7 @@
             <style>
                 div {
                     color: white;
+                    font-family:verdana
                 }
                 
                 .fix {
@@ -19,7 +20,7 @@
                     flex-direction: row;
                 }
             </style>
-            <h1 align="left">Christopher Anderson's GitHub 💻</h1>
+            <h2 align="left">Christopher Anderson's GitHub 💻</h2>
             <h5 align="left">Hoping to study Computer Science at FER (University of Zagreb, Croatia)<br></br>Currently writing Jailbreak tweaks and iOS apps</h5>
             <br></br>
             <div class="container">
