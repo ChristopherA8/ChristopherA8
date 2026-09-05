@@ -7,5 +7,5 @@
 
 
 ## Experience
-<img src="langs1-card.svg" width="320" height="192" alt="">
-<img src="langs2-card.svg" width="320" height="96" alt="">
+<img src="langs1-card.svg" width="320" height="266" alt=""></img>
+<img src="langs2-card.svg" width="320" height="266" alt=""></img>
