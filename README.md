@@ -14,5 +14,4 @@
 ## Extras
 <ul>
   <li><a href="https://repo.chr1s.dev/">Tweak Repo</a></li>
-  <li>...</li>
 </ul>
